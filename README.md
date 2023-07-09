@@ -1,4 +1,4 @@
-![Header]([https://github.com/JAY631/JAY631/blob/main/assets/hD0vCl.webp](https://github.com/JAY631/JAY631/blob/main/assets/header.jpg))
+![Header](https://github.com/JAY631/JAY631/blob/main/assets/header.jpg)
 
 <!-- <h2>Skills</h2> -->
 ## I am a Front-End developer and future Full-Stack developer
