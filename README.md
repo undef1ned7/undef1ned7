@@ -2,7 +2,7 @@
 
 <!-- <h2>Skills</h2> -->
 ## Hi, i'm Bayel
-## Front-End developer and future Full-Stack developer
+### Front-End developer and future Full-Stack developer
 
 ### Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
