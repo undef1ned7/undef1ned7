@@ -20,3 +20,10 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/undef1ned7/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/%D0%B1%D0%B0%D0%B9%D1%8D%D0%BB-%D0%BC%D1%8B%D0%B9%D0%B7%D0%B0%D0%BC%D0%B1%D0%B5%D0%BA%D0%BE%D0%B2-27532b277/)
 
+<p align="left">
+<img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=JAY631&show_icons=true&&count_private=true&theme=github&hide_border=true&bg_color=00000000&hide=issues,contribs&locale=en" alt="almazxx" />
+
+<img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=JAY631&show_icons=true&count_private=true&theme=github&hide_border=true&bg_color=00000000&locale=en&layout=compact" alt="almazxx" />
+</p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JAY631&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
