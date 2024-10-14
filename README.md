@@ -24,7 +24,7 @@
 <p align="left">
 <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=undef1ned7&show_icons=true&&count_private=true&theme=github&hide_border=true&bg_color=00000000&hide=issues,contribs&locale=en" alt="undef1ned" />
 
-<img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=undef1ned&show_icons=true&count_private=true&theme=github&hide_border=true&bg_color=00000000&locale=en&layout=compact" alt="undef1ned" />
+<img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=undef1ned7&show_icons=true&count_private=true&theme=github&hide_border=true&bg_color=00000000&locale=en&layout=compact" alt="undef1ned" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=undef1ned&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=undef1ned7&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
